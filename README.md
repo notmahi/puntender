@@ -9,11 +9,11 @@ python3 setup.py
 ```
 To run the WordNet analyzer, run
 ```bash
-python3 wordnetmain.py
+python3 wordnet_main.py
 ```
 To run the ConceptNet analyzer, run
 ```bash
-python3 conceptnetmain.py
+python3 conceptnet_main.py
 ```
 
 # Installing python3
